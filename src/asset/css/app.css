@@ -1,0 +1,17 @@
+.content-view {
+    height: 100%;
+    margin: 20px;
+    width: 100%;
+  }
+.order-list{
+    border-right: inset;
+    border-right-width: 4px;
+}
+.cehckout-container{
+    text-align: center;
+    align-self: center;
+}
+.content-header{
+    border-bottom: inset;
+    border-bottom-width: 4px;
+}

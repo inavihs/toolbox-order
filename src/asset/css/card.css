@@ -1,0 +1,9 @@
+.card-container{
+    margin:0px 0px 20px 0px
+}
+
+.cardItem__image{
+    font-size: 80px;
+    margin: 0px 10px;
+    color: darkgray;
+}
